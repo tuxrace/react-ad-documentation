@@ -2,6 +2,10 @@
 
 Run the app:
 
+### `npm install`
+
+Then
+
 ### `npm run runServer`
 
 View the app:
