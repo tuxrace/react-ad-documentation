@@ -6,7 +6,7 @@ Run the app:
 
 View the app:
 
-### `http://localhost:3000`
+http://localhost:3000
 
 Build the app:
 
