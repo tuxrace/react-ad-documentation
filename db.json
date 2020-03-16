@@ -1,0 +1,24 @@
+{
+    "api": [
+      {
+        "id": 1,
+        "title": "Automated Insights",
+        "description": "Automated Insights"
+      },
+      {
+        "id": 2,
+        "title": "Basic Automation",
+        "description": "Basic Automation"
+      },
+      {
+        "id": 3,
+        "title": "Multiples",
+        "description": "Multiples"
+      },
+      {
+        "id": 4,
+        "title": "Database",
+        "description": "Database"
+      }
+    ]
+  }
