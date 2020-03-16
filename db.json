@@ -17,8 +17,18 @@
       },
       {
         "id": 4,
-        "title": "Database",
-        "description": "Database"
+        "title": "Database Testing",
+        "description": "Database Testing"
+      },
+      {
+        "id": 5,
+        "title": "Word Recognition",
+        "description": "Word Recognition"
+      },
+      {
+        "id": 6,
+        "title": "Touch Identification",
+        "description": "Touch Identification"
       }
     ]
   }

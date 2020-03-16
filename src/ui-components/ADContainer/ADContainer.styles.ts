@@ -5,6 +5,7 @@ export default (theme: Theme) => ({
     root: {
         backgroundColor: adColors.bgGray,
         height: '100%',
+        minHeight: '100vh',
         color: adColors.fontGray,
     },
     content: {
