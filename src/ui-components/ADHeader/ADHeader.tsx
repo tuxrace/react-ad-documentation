@@ -1,7 +1,6 @@
 import React from 'react';
 import { Grid, makeStyles, Typography } from '@material-ui/core';
 import styles from './ADHeader.styles';
-import theme from '../../modules/theme';
 
 const useStyles = makeStyles(styles);
 
